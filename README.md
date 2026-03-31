@@ -1,4 +1,4 @@
-# Lexical_Analayzer
+# Lexical_Analyser
 
 c_lexer.l file is a lex file independent to give out tokens for lexemes.
 
